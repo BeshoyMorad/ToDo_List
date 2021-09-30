@@ -1,6 +1,6 @@
 # ToDo_List
 
-Simple wed site to help you manage your tasks
+Simple website to help you manage your tasks
 
 - New tasks can be added to the list
 - Existing tasks can be marked as finished
